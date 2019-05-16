@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6390104197,
+  "duration": 21310049807,
   "status": "passed"
 });
 formatter.scenario({
@@ -37,7 +37,7 @@ formatter.match({
   "location": "DaConsultaAoCarrinho_Cucumber.que_acesso_o_site_Walmart()"
 });
 formatter.result({
-  "duration": 21707856637,
+  "duration": 38144702219,
   "status": "passed"
 });
 formatter.match({
@@ -50,7 +50,7 @@ formatter.match({
   "location": "DaConsultaAoCarrinho_Cucumber.pesquiso_por_e_pressiona_Enter(String)"
 });
 formatter.result({
-  "duration": 13598850416,
+  "duration": 17435108002,
   "status": "passed"
 });
 formatter.match({
@@ -63,11 +63,11 @@ formatter.match({
   "location": "DaConsultaAoCarrinho_Cucumber.exibe_a_lista_de_produtos_relacionados_com(String)"
 });
 formatter.result({
-  "duration": 708209675,
+  "duration": 1455445642,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1364536655,
+  "duration": 1067394794,
   "status": "passed"
 });
 });
